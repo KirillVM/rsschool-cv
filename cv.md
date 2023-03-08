@@ -1,39 +1,41 @@
-# **Kirill Mezentsev***
+# **Kirill Mezentsev**
+## **Junior Full-stack Developer**
 ---
-## __Contacts__
+## **Contact information**
 
-email:<mezentsevkv91@gmail.com>   
-discord:[Kirill Mezentsev(@KirillVM)](OCB#1927)
+**E-mail:** <mezentsevkv91@gmail.com>   
+**Discord:** [Kirill Mezentsev(@KirillVM)](OCB#1927)
 
-## __ABOUT ME__
+## **About Myself**
 
-Hi!My name is Kirill. I am a beginner web developer.
+Hi! My name is Kirill. I am a beginner web developer.
 My purpose is to learn **JS(React, Angular) + C#** languages for having a new interesting(maybe not :D) job.
 I learn something new about C# and JS every day and I like to do it!
 I have been working as a production engineer in a big company about five years. We design cars.
-When I was at university I realy liked programming, but i didn't understand how important it was.
+When I was at university I realy liked programming, but i didn't understand how important it is for me.
 But this year I said to myself: It's time for a change!
 
-## __Skils__
+## **Skils**
 
-* Laguages
+* **Laguages**
+   * JavaScript starter
    * C# basic (DI, SOLID, Multithreading, Collections, OOP)
    * Sql basic
-   * JavaScript starter
 
-* Technologies
+* **Technologies**
    * .NET basic
    * .NET Core starter
 
-* Technologies
+* **Libraries**
    * LINQ basic
    * Entity Framework basic
+   * jQuery
 
-* Database
+* **Database**
    * PostgreSQL starter
    * MySql starter
 
-## __Code Examples__
+## **Code Example**
 
 ``` C#
 class JsonStreamer<K>
@@ -72,24 +74,25 @@ class JsonStreamer<K>
     }
 }
 ```
-## __Work Expiriens__
+## **Work Expiriens**
 
 * Projects
-   * [SerializationTask](https://github.com/KirillVM/SerializationTask.git) Working with JSON files. Asynchronous write and read.
-   * [ArtworkStore](https://github.com/KirillVM/ArtworkStore.git)Working with LINQ и EF. Using pattern MVC.
+   * [SerializationTask](https://github.com/KirillVM/SerializationTask.git) 
+   * [ArtworkStore](https://github.com/KirillVM/ArtworkStore.git)   
 
-## __Education__
+## **Education**
 
-University: Lobachevsky State University of Nizhny Novgorod
-Faculty: Faculty of Physics
-Speciality: Solid state electronics
+**University:** Lobachevsky State University of Nizhny Novgorod
+**Faculty:** Faculty of Physics
+**Speciality:** Solid state electronics
 
-* Courses:
-  * C# starter and basic *ITVDN*
-  * Git *ITVDN*
-  * ASP.NET Core statrer
-  * Python.Algorithms. *STEPIK*
+* **Courses:**
+  * C# starter and basic (*ITVDN*)
+  * Git (*ITVDN*)
+  * ASP.NET Core statrer (*ITVDN*)
+  * Python.Algorithms (*STEPIK*)
+  * [Algorithms and data structures](https://www.youtube.com/watch?v=wFx6HAfJEnI&list=PLrS21S1jm43iUIpR51VCJgxY1MjwS-pAZ) (Pavel Marvin ITMO)
 
 Jeffrey Richter awesome! :D
 
-__English languege:__ Elementary - Pre-Intermediate
+**English languege:** Elementary - Pre-Intermediate

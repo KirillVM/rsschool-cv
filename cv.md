@@ -82,9 +82,9 @@ class JsonStreamer<K>
 
 ## **Education**
 
-**University:** Lobachevsky State University of Nizhny Novgorod
-**Faculty:** Faculty of Physics
-**Speciality:** Solid state electronics
+**University:** Lobachevsky State University of Nizhny Novgorod   
+**Faculty:** Faculty of Physics   
+**Speciality:** Solid state electronics   
 
 * **Courses:**
   * C# starter and basic (*ITVDN*)

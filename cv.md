@@ -15,7 +15,7 @@ I have been working as a production engineer in a big company about five years. 
 When I was at university I realy liked programming, but i didn't understand how important it is for me.
 But this year I said to myself: It's time for a change!
 
-## **Skils**
+## **Skills**
 
 * **Laguages**
    * JavaScript starter

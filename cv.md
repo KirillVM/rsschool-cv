@@ -1,5 +1,6 @@
 # **Kirill Mezentsev**
 ## **Junior Full-stack Developer**
+![Hi!It's my photo!](/img/myphoto.jpg)
 ---
 ## **Contact information**
 

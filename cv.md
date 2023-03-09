@@ -21,7 +21,7 @@ But this year I said to myself: It's time for a change!
 
 ## **Skills**
 
-* **Laguages**
+* **Languages**
    * JavaScript starter
    * C# basic (DI, SOLID, Multithreading, Collections, OOP)
    * Sql basic

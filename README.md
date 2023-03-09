@@ -1,1 +1,1 @@
-https://KirillVM.github.io/rsschool-cv/cv
+https://KirillVM.github.io/rsschool-cv/
